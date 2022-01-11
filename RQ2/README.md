@@ -6,7 +6,7 @@
   Contains dataset used to answer research question.
 ```
   
-## 2) Script
+## 2) Script R
 ```
 Contains code used for scripts R.
 ```
