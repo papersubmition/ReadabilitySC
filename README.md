@@ -7,6 +7,7 @@ software differ. Making smart contract readable is a challenge, as best practice
 in contrast with strategies to reduce gas consumption. Since the development of traditional software is more marginally 
 affected by the resource consumption problem, we compare the values obtained on both smart contracts and 
 traditional software of specific code metrics.
+Data and scripts used for answering this research question can be found in the folder RQ1.
  `
  ## RQ2: How do readability metrics correlate with the gas consumed for smart contract deployment?
    `
@@ -14,4 +15,5 @@ The second research question aims at investigating the smart contract readabilit
 In this research question, we attempt to start filling this gap by investigating the relationships existing 
 (i) between the specific smart contract readability metrics and gas consumption and (ii) between each pair of readability metrics,
 with the purpose of identifying the readability features that deserve attention during smart contract development.
+Data and scripts used for answering this research question can be found in the folder RQ2.
  `
